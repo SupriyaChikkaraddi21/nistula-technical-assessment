@@ -1,21 +1,19 @@
 # Nistula Technical Assessment — Thinking Questions
 
 ---
-
 # Question A — Immediate Response
 
 ## AI Reply
 
 Hi, and I sincerely apologize for the inconvenience caused.
 
-I understand how frustrating this situation must be, especially with guests arriving shortly. I have immediately flagged this issue as urgent and notified the on-call support team to assist as quickly as possible.
+I understand how stressful this is, especially with guests arriving in a few hours. I have marked this as an urgent maintenance issue and alerted the on-call support team immediately.
 
-We will update you shortly with the next steps and work toward resolving this as fast as possible.
+A team member will contact you shortly with an update and next steps. We will do our best to resolve this as quickly as possible and assist you further regarding your refund request after the issue is reviewed.
 
 ## Why I Chose This Response
 
-The response prioritizes empathy, urgency, and reassurance without making unrealistic promises. Since this is a service-impacting issue happening late at night, the guest needs acknowledgment and confidence that action is already being taken.
-
+The response prioritizes empathy, urgency, and accountability without making unrealistic promises. Since this is a high-stress operational issue happening late at night, the guest needs reassurance that the problem has already been escalated to humans and is actively being handled.
 ---
 
 # Question B — System Design
