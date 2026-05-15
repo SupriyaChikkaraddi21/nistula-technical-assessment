@@ -152,6 +152,8 @@ The system integrates with the Claude API using the Anthropic SDK.
 
 If the external AI provider fails or authentication is unavailable, the system gracefully falls back to a safe default response instead of crashing.
 
+Note: The provided assessment Claude API key returned authentication errors during testing. Graceful fallback handling was implemented to ensure API reliability and prevent endpoint failures.
+
 ---
 
 # Run Locally
